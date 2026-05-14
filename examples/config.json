@@ -1,0 +1,18 @@
+{
+  "relays": {
+    "wss://relay-jp.nostr.wirednet.jp": {
+      "read": true,
+      "write": true,
+      "search": false
+    }
+  },
+  "privatekey": "nsecXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  "blossom": {
+    "servers": [
+      "https://blossom.example.com"
+    ]
+  },
+  "nsite": {
+    "host": "nsite.example.com"
+  }
+}
