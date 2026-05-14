@@ -1,6 +1,6 @@
 # nsite-cli
 
-`nsite-cli` は、NIP-5A / nsite 静的Webサイトを **作成・ローカル確認・ビルド・Blossomアップロード・Nostr公開** するための小さなGo製CLIです。
+`nsite-cli` は、[`NIP-5A`](https://github.com/nostr-protocol/nips/blob/master/5A.md)  / nsite 静的Webサイトを **作成・ローカル確認・ビルド・Blossomアップロード・Nostr公開** するための小さなGo製CLIです。
 
 Vimユーザーが `vim` とCLIだけで小さな静的サイト/ミニアプリを作り、ローカルで確認し、そのままNIP-5A形式で公開できる体験を目指しています。
 
